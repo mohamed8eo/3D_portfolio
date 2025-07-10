@@ -55,11 +55,14 @@ A visually stunning, interactive 3D portfolio built with React, Vite, Tailwind C
 
 
 - **Showcase**
+- <img width="3839" height="1930" alt="image" src="https://github.com/user-attachments/assets/e3bab946-615e-4571-bd1b-39dbbe0c3293" />
+
   
   Highlights featured projects with images and descriptions, demonstrating technical skills and creativity through real-world examples.
 
 - **Logo Marquee**
-  
+  <img width="3839" height="1930" alt="image" src="https://github.com/user-attachments/assets/1ecab584-9544-4adb-a7ae-2f1a1e803011" />
+
   An animated, scrolling display of company or client logos, showcasing professional associations and collaborations.
 
 - **Features**
@@ -67,15 +70,18 @@ A visually stunning, interactive 3D portfolio built with React, Vite, Tailwind C
   Presents key abilities and strengths, such as quality focus, communication, and timely delivery, using visually engaging cards.
 
 - **Experience**
-  
+  <img width="3839" height="1930" alt="image" src="https://github.com/user-attachments/assets/18fd6956-9e43-4c12-932c-62bb046a2fe6" />
+
   A timeline of professional roles, responsibilities, and achievements, enhanced with animations and company branding.
 
 - **Tech Stack**
-  
+  <img width="3839" height="1930" alt="image" src="https://github.com/user-attachments/assets/d3112fe2-7a27-486c-bef9-164a69873490" />
+
   Displays core technical skills and tools using interactive 3D icons and a responsive grid layout.
 
 - **Contact**
-  
+  <img width="3840" height="1929" alt="image" src="https://github.com/user-attachments/assets/3b421d0b-b5ef-44b6-b0f3-1c53d0822023" />
+
   A user-friendly contact form powered by EmailJS, accompanied by a 3D visual, allowing visitors to easily get in touch.
 
 - **Footer**
