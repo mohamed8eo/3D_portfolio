@@ -15,7 +15,7 @@ A visually stunning, interactive 3D portfolio built with React, Vite, Tailwind C
 
 ## 🌐 Live Demo
 
-[Live Demo Link](#) <!-- Replace with your deployed site URL -->
+[Live Demo Link](https://3-d-portfolio-eta-bice.vercel.app/) <!-- Replace with your deployed site URL -->
 
 ## 🛠️ Tech Stack
 
