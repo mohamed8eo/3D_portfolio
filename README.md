@@ -51,6 +51,8 @@ A visually stunning, interactive 3D portfolio built with React, Vite, Tailwind C
 - **Hero**
   
   The landing section with an animated introduction, dynamic 3D model, and a call-to-action button. Sets the tone for the portfolio and introduces the developer.
+  <img width="3839" height="1930" alt="image" src="https://github.com/user-attachments/assets/eec9e7c2-8804-4517-8fd0-b7d8799293d9" />
+
 
 - **Showcase**
   
